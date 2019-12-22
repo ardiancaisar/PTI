@@ -18,7 +18,7 @@
 
         // Set the recipient email address.
         // FIXME: Update this to your desired email address.
-        $recipient = "mohinpatwary42@gmail.com";
+        $recipient = "ahp3695@gmail.com";
 
         // Set the email subject.
         $subject = "New contact from $name";
